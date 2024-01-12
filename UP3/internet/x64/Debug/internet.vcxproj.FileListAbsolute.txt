@@ -1,0 +1,33 @@
+C:\Users\lucky\Desktop\internet\internet\internet\x64\Debug\internet.vcxproj.AssemblyReference.cache
+C:\Users\lucky\Desktop\internet\internet\internet\x64\Debug\internet.vcxproj.GenerateResource.cache
+C:\Users\lucky\Desktop\internet\internet\internet\x64\Debug\internet.Form.resources
+C:\Users\lucky\Desktop\internet\internet\internet\x64\Debug\internet.MyForm1.resources
+C:\Users\lucky\Desktop\internet\internet\internet\x64\Debug\internet.MyForm2.resources
+C:\Users\lucky\Desktop\Новая папка (2)\internet\x64\Debug\internet.vcxproj.AssemblyReference.cache
+C:\Users\lucky\Desktop\Новая папка (2)\internet\x64\Debug\internet.Form.resources
+C:\Users\lucky\Desktop\Новая папка (2)\internet\x64\Debug\internet.MyForm1.resources
+C:\Users\lucky\Desktop\Новая папка (2)\internet\x64\Debug\internet.MyForm2.resources
+C:\Users\lucky\Desktop\Новая папка (2)\internet\x64\Debug\internet.vcxproj.GenerateResource.cache
+C:\Users\lucky\Desktop\internet\internet\x64\Debug\internet.vcxproj.AssemblyReference.cache
+C:\Users\lucky\Desktop\internet\internet\x64\Debug\internet.Form.resources
+C:\Users\lucky\Desktop\internet\internet\x64\Debug\internet.MyForm1.resources
+C:\Users\lucky\Desktop\internet\internet\x64\Debug\internet.MyForm2.resources
+C:\Users\lucky\Desktop\internet\internet\x64\Debug\internet.vcxproj.GenerateResource.cache
+C:\Users\Денис\Desktop\internet\internet\x64\Debug\internet.vcxproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\internet\internet\x64\Debug\internet.Form.resources
+C:\Users\Денис\Desktop\internet\internet\x64\Debug\internet.MyForm1.resources
+C:\Users\Денис\Desktop\internet\internet\x64\Debug\internet.MyForm2.resources
+C:\Users\Денис\Desktop\internet\internet\x64\Debug\internet.vcxproj.GenerateResource.cache
+C:\Users\Денис\Desktop\internet\internet\x64\Debug\internet.exe
+C:\Users\lucky\Desktop\internet (1)\internet\internet\x64\Debug\internet.vcxproj.AssemblyReference.cache
+C:\Users\lucky\Desktop\internet (1)\internet\internet\x64\Debug\internet.Form.resources
+C:\Users\lucky\Desktop\internet (1)\internet\internet\x64\Debug\internet.MyForm1.resources
+C:\Users\lucky\Desktop\internet (1)\internet\internet\x64\Debug\internet.MyForm2.resources
+C:\Users\lucky\Desktop\internet (1)\internet\internet\x64\Debug\internet.vcxproj.GenerateResource.cache
+C:\Users\lucky\Desktop\internet (1)\internet\internet\x64\Debug\internet.exe
+G:\internet (1)\internet\internet\x64\Debug\internet.vcxproj.AssemblyReference.cache
+G:\internet (1)\internet\internet\x64\Debug\internet.Form.resources
+G:\internet (1)\internet\internet\x64\Debug\internet.MyForm1.resources
+G:\internet (1)\internet\internet\x64\Debug\internet.MyForm2.resources
+G:\internet (1)\internet\internet\x64\Debug\internet.vcxproj.GenerateResource.cache
+G:\internet (1)\internet\internet\x64\Debug\internet.exe
