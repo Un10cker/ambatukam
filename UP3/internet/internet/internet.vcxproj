@@ -121,9 +121,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Form.cpp" />
-    <ClCompile Include="MyForm1.cpp" />
-    <ClCompile Include="MyForm2.cpp" />
+    <ClCompile Include="osnova.cpp" />
+    <ClCompile Include="sklad.cpp" />
+    <ClCompile Include="Magazin.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Form.h">

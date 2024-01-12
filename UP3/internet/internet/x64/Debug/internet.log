@@ -1,7 +1,7 @@
-﻿  Form.cpp
-  MyForm1.cpp
-  MyForm2.cpp
+﻿  osnova.cpp
+  sklad.cpp
+  Magazin.cpp
   .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
   Создание кода...
-  Form.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  internet.vcxproj -> C:\Users\Денис\Desktop\internet\internet\x64\Debug\internet.exe
+  osnova.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  internet.vcxproj -> G:\UP3\internet\x64\Debug\internet.exe
